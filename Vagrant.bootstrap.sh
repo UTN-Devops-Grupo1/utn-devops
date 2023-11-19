@@ -6,7 +6,7 @@
 sudo apt-get update
 
 # Instalo un servidor web
-sudo apt-get install -y apache2
+sudo apt-get install -y apache2 git
 
 ### Configuración del entorno ###
 
